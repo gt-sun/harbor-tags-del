@@ -15,9 +15,9 @@ import (
 const (
 	ID            = 3
 	DELETE        = false
-	URL_PROJECT   = "https://hub.namifunds.com/api/repositories?project_id=%d&q=&detail=0"
-	URL_REGISTORY = "https://hub.namifunds.com/api/repositories/%s/tags?detail=1"
-	URL_DELETE    = "https://admin:Harbor@hub.namifunds.com/api/repositories/%s/tags/%s"
+	URL_PROJECT   = "https://hub.xxx.com/api/repositories?project_id=%d&q=&detail=0"
+	URL_REGISTORY = "https://hub.xxx.com/api/repositories/%s/tags?detail=1"
+	URL_DELETE    = "https://admin:admin@hub.xxxx.com/api/repositories/%s/tags/%s"
 )
 
 var now = time.Now()
