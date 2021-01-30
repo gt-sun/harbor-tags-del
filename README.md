@@ -1,5 +1,5 @@
 # harbor-tags-del
-删除 harbor 里 registories 的 tags
+删除 harbor 里 docker image 的 tags
 
 ```
 projectID   = 3  // 项目ID
